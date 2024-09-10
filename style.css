@@ -1,0 +1,54 @@
+.titleContent
+{
+    width: 100%;
+    text-align: center;
+}
+
+
+.mainTable
+{
+    width: calc(100% - 670px);
+    border: 1px solid black;
+}
+.infoSection
+{
+    border: 1px solid black;
+}
+.imageMain
+{
+    border: 1px solid black;
+}
+
+.tableSection
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+}
+.imageSection
+{
+    
+}
+
+.infoTableRows, .infoTbody
+{
+    width: 100%;
+}
+
+.infoData
+{
+    font-weight: 100;
+}
+
+li
+{
+    margin: 5px;
+}
+
+
+
+.infoLabel, .infoData
+{
+    border: 1px solid black;
+    padding: 10px;
+}
